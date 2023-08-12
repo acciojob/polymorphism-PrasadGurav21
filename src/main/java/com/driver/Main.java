@@ -23,4 +23,3 @@ public class Main {
             p.product(1.0, 2.0);
         }
     }
- }
